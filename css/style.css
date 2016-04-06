@@ -141,7 +141,7 @@ header{}
 
 #head{background: white; padding: 15px 0 0 0; position: relative; z-index: 100;}
 #logo{
-	background: url(img/newbridge-logo.jpg) 0 0 no-repeat;
+	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-logo.jpg) 0 0 no-repeat;
 	background-size: 100%;
 	display: block;
 	float: left;
@@ -238,7 +238,7 @@ header{}
 }
 video{
 	
-/*background:transparent url("img/featured-image.jpg") no-repeat 0 0; 
+/*background:transparent url("http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgfeatured-image.jpg") no-repeat 0 0; 
    -webkit-background-size:cover; 
    -moz-background-size:cover; 
    -o-background-size:cover; 
@@ -246,7 +246,7 @@ video{
 }
 #video_pattern {
 background:rgba(51,90,117,1);
-background: url("img/pattern.png") 0 0 repeat; 
+background: url("http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgpattern.png") 0 0 repeat; 
 opacity: .25;
 position: absolute;
 left: 0px;
@@ -259,7 +259,7 @@ z-index: 0!important;
 
 /*featured*/
 #feature{
-	background: url("img/featured-image.jpg") 100% 0 no-repeat fixed; 
+	background: url("http://www.newbridgerecovery.com/wp-content/uploads/2016/04/featured-image.jpg") 100% 0 no-repeat fixed; 
 	background-size: cover;
 	margin: 0 auto; 
 	/*min-height: 500px;*/
@@ -270,7 +270,7 @@ z-index: 0!important;
 	width: 100%; 
 }
 #feature2{
-	background: url(img/newbridge-recovery.jpg) center center no-repeat fixed;
+	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin: 0 auto; 
 	min-height:495px;
@@ -281,12 +281,12 @@ z-index: 0!important;
 	width: auto; 
 	z-index:0; overflow: hidden;
 /*
-	background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('img/newbridge-recovery.jpg) no-repeat;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(59%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.65))), url('img/newbridge-recovery.jpg) no-repeat;
-  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('img/newbridge-recovery.jpg) no-repeat;
-  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('img/newbridge-recovery.jpg) no-repeat;
-  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('img/newbridge-recovery.jpg) no-repeat;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('img/newbridge-recovery.jpg) no-repeat;
+	background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(59%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.65))), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url('http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgnewbridge-recovery.jpg) no-repeat;
 */
 
 }
@@ -451,7 +451,7 @@ feature h1.videoheader{
 
 }
 #featured-on .logo{
-	background: url(img/sprite@2x.png) no-repeat;
+	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgsprite@2x.png) no-repeat;
 	background-size: 939px 800px;
 	display: block;
 	float: left;
@@ -569,7 +569,7 @@ margin-top: 40px;
 }
 
 #insurance .icons .icon{
-	background: url(img/insurance-logos.png) 0px 0px no-repeat;
+	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpginsurance-logos.png) 0px 0px no-repeat;
 	display: block;
 	float: left;
 	text-indent: -9999px;
@@ -669,7 +669,7 @@ margin-top: 40px;
 /*Section: Top Footer*/
 #top-footer{
 background-color: #ffffff; 
-background: url(img/bg-topfooter.png) #ffffff repeat-x ;
+background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpgbg-topfooter.png) #ffffff repeat-x ;
 background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e7f4f9), to(#ffffff)); 
 background: -webkit-linear-gradient(top, #e7f4f9, #ffffff); 
 background: -moz-linear-gradient(top, #e7f4f9, #ffffff); 
