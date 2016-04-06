@@ -470,7 +470,7 @@ feature h1.videoheader{
 	clear:both;
 	vertical-align: top;
 	overflow:visible;
-	min-height: 455px;
+	min-height: 555px;
 	*zoom:1;
 }
 #treatment-programs article .phCont {
