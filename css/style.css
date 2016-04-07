@@ -2005,6 +2005,7 @@ width: 100%;
 }
 #contact ul, .ginput_container_radio ul {
 	padding:4px 0;
+	list-style:none;
 }
 #contact .gfield_radio{
 	padding:0px;
