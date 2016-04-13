@@ -1799,7 +1799,7 @@ min-width: 800px;
 	height: 126px;
 	width: 100%;
 	position: fixed;
-	margin-top: -1px;
+	margin-top: -5px;
 	padding-top: 15px;
 	border-bottom:1px solid #efefef;
 	z-index: 100;
