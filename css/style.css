@@ -1784,7 +1784,7 @@ min-width: 800px;
 /* ########### Sticky CTA Bar ############## */
 @media (min-width: 451px) {
 	#head{
-	padding: 1px 0 0 0;
+	padding: 0px 0 0 0;
 	}
 
 	.top-wrapper, .cta-header{
@@ -1806,7 +1806,7 @@ min-width: 800px;
 	}
 
 	.cta-header{
-	max-width: 1020px;
+	max-width: 980px;
 	margin: 0 auto;
 	}
 
