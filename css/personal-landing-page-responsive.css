@@ -41,6 +41,10 @@
 #treatment-programs article img{
 	width:100%;
 }
+#whychoose article {
+    min-height: 300px;
+    max-height: 300px;
+}
 #whychoose article .content{
 	width: 100%;
     text-align: center;
@@ -237,6 +241,10 @@ float:none!important;
 #whychoose article h2 a:link
 #whychoose article h2 a:visited{
 	color: #333;
+}
+#whychoose article {
+    min-height: 300px;
+    max-height: 300px;
 }
 #whychoose article .content{
 	width: 100%;
