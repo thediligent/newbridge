@@ -608,6 +608,7 @@ margin-top: 40px;
 	display: inline-block;
 	*display:inline;
 	margin: 10px;
+	min-height:600px;
 	vertical-align: top;
 	*zoom:1;
 }
@@ -630,7 +631,7 @@ margin-top: 40px;
 	*display:inline;
 	margin: 0 0 0 4px;
 	vertical-align: top;
-	width: 75%;
+	width: 98%;
 	*zoom:1;
 }
 #whychoose article #medical-leadership{background-position: 0px -155px!important;}
