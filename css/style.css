@@ -2016,3 +2016,7 @@ width: 100%;
 	width: 12px!important;
     display: inline;
 }
+.staff-pic {
+	max-width:98%;
+	max-height:100px;
+}
