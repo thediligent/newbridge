@@ -412,15 +412,17 @@ section#pattern-top .two-collumn p{
 	#feature{
 	max-height: 600px;
 	height: auto;
-	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) 0 0 no-repeat fixed;
+	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) 0 0 no-repeat scroll;
 	}
-	#feature2{
+	#mobileFixed {
 	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
-	 background-size: cover;
+	background-size: cover;
     background-attachment: fixed;
     background-position: -180px 65px;
     background-repeat: no-repeat;
-	min-height:550px!important;
+	}
+	#feature2{
+	height:550px!important;
 	max-height:550px!important;
 	
 	height: auto;
