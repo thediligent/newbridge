@@ -415,10 +415,14 @@ section#pattern-top .two-collumn p{
 	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) 0 0 no-repeat fixed;
 	}
 	#feature2{
-	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) -230px 10px no-repeat fixed;
-	background-size: cover;
+	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
+	 background-size: cover;
+    background-attachment: fixed;
+    background-position: -180px 65px;
+    background-repeat: no-repeat;
 	min-height:550px!important;
 	max-height:550px!important;
+	
 	height: auto;
 	}
 	#feature article {  
@@ -745,11 +749,14 @@ section#pattern-top .two-collumn p{
 	
 
 #feature2{
-	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) -230px 10px no-repeat fixed;
-	background-size: cover;
+	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
 	min-height:550px!important;
 	max-height:550px!important;
 	height: auto;
+	 background-size: cover;
+    background-attachment: fixed;
+    background-position: -180px 65px;
+    background-repeat: no-repeat;
 	}
 
 
@@ -758,7 +765,11 @@ section#pattern-top .two-collumn p{
 @media only screen and (min-width:80px) and (max-width: 360px) {
 
 	#feature2{
-	background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) -230px 10px no-repeat fixed;
+	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
+	 background-size: cover;
+    background-attachment: fixed;
+    background-position: -180px 65px;
+    background-repeat: no-repeat;
 	background-size: cover;
 	min-height:550px!important;
 	max-height:550px!important;
