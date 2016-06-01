@@ -1042,9 +1042,12 @@ width: 90% !important;
     .mobile-only {
         display:block !important;
     }
-     #feature2 {
-		background: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg) center center no-repeat fixed;
-		background-size: cover;
+     #mobileFixed {
+	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
+	background-attachment:scroll;
+    background position:left top;
+    background-size:cover;
+    width:100%;
     }
  
     .desktop-only {
