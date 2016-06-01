@@ -562,8 +562,6 @@ section#pattern-top .two-collumn p{
 	display: block;
 	margin: 0 10px 30px 0;
 	width: 100%;
-	max-height:500px;
-	height:500px;
 	}
 	#whychoose article .content{
 	width: 100%;
@@ -1044,16 +1042,14 @@ width: 90% !important;
     .mobile-only {
         display:block !important;
     }
-     #mobileFixed {
+     #feature2 {
 		background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
 		background-attachment:scroll;
     background position:left top;
     background-size:cover;
     width:100%;
     }
-    #contentBlock {
-    	height:2000px;
-    }
+ 
     .desktop-only {
         display:none !important;
     }
