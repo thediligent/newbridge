@@ -1054,7 +1054,9 @@ width: 90% !important;
     #contentBlock {
     	height:2000px;
     }
- 
+ 	#feature2:before {
+ 		background-image: none;
+ 	}
     .desktop-only {
         display:none !important;
     }
