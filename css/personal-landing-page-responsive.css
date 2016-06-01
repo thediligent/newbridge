@@ -135,6 +135,7 @@
 	background-size: cover;
 	min-height:630px!important;
 	max-height:630px!important;
+	background-position: -240px -175px;
 	height: auto;
 }
 #video{display:none!important}
