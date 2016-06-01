@@ -1043,11 +1043,14 @@ width: 90% !important;
         display:block !important;
     }
      #mobileFixed {
-	background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
-	background-attachment:scroll;
+		background-image: url(http://www.newbridgerecovery.com/wp-content/uploads/2016/04/newbridge-recovery.jpg);
+		background-attachment:scroll;
     background position:left top;
     background-size:cover;
     width:100%;
+    }
+    #contentBlock {
+    	height:2000px;
     }
  
     .desktop-only {
