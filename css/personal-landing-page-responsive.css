@@ -1021,7 +1021,7 @@ width: 90% !important;
 	margin: 15px;
     }
 }
-@media (max-width:1199px) {
+@media (min-width: 600px) and (max-width:1199px) {
 	#feature2 {
  	background-position-y:0px!important;
 	}
