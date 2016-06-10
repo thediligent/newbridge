@@ -1016,15 +1016,16 @@ section#pattern-top .two-collumn p{
 
 width: 90% !important;
 }
-#feature2 {
- background-position-y:0px;
-}
  #treatment-programs .pdfLine {
 	display: block;
 	margin: 15px;
     }
 }
-
+@media (max-width:1199px) {
+	#feature2 {
+ 	background-position-y:0px!important;
+	}
+}
 @media (min-width:1200px) {
     .desktop-only {
         display:block !important;
