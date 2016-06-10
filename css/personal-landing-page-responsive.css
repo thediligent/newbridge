@@ -971,9 +971,6 @@ section#pattern-top .two-collumn p{
     padding: 9px 0;
 }
 
-#feature2 {
- background-position-y:0px;
-}
 .dropdown-menu .sub-menu {
     left: 100%;
     position: absolute;
@@ -1014,10 +1011,13 @@ section#pattern-top .two-collumn p{
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 890px) {
 .gform_wrapper input, textarea, select {
 
 width: 90% !important;
+}
+#feature2 {
+ background-position-y:0px;
 }
  #treatment-programs .pdfLine {
 	display: block;
