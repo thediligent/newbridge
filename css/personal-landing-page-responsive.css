@@ -971,6 +971,9 @@ section#pattern-top .two-collumn p{
     padding: 9px 0;
 }
 
+#feature2 {
+ background-position-y:0px;
+}
 .dropdown-menu .sub-menu {
     left: 100%;
     position: absolute;
